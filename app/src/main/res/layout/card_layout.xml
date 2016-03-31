@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="10dp"
+    android:layout_marginTop="10dp"
+    android:layout_marginRight="10dp"
+    android:id="@+id/cv"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="16dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:id="@+id/wifiname"
+            android:layout_alignParentTop="true"
+            android:textSize="20sp"
+            android:text="Wifi Name"
+            android:textColor="@color/material_blue_grey"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="3dp"
+            android:id="@+id/wifipw"
+            android:layout_below="@+id/wifiname"
+            android:textSize="15sp"
+            android:textColor="@color/textcolorgrey"
+            android:text="123456789"
+            />
+
+    </RelativeLayout>
+</android.support.v7.widget.CardView>

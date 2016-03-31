@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Wifi Password</string>
+    <string name="password">Password</string>
+    <string name="wait">Please Wait</string>
+    <string name="getpassword">Getting Password</string>
+    <string name="ssid">SSID</string>
+    <string name="pwcopied">Password copied to the clipboard</string>
+    <string name="sharewifi">Share wifi data with: </string>
+    <string name="nowififoundtitle">Can\'t read saved Wifi</string>
+    <string name="nowififounddes">Sorry, i can\'t read your saved wifi password. If you can with a root explorer search inside your data folder (usually
+        \"data/misc/wifi\" or \"data/wifi\" ) and search for a file called \"wpa_supplicant.conf\" or something similar and email its position to us! Thanks :) </string>
+    <string name="notrootmsg">You DON\'T have the root access, this app won\'t work! Please don\'t rate it badly on the play store. If you don\'t know what is the root access you can uninstall this app, because is useless for you.</string>
+    <string name="oknorootmsg">Ok, i understand</string>
+    <string name="uninstall">Uninstall</string>
+    <string name="noroottx">No Root!</string>
+    <string name="rootaccden">Root Access Denied!</string>
+    <string name="rootperm">Please grand root permission to the app</string>
+    <string name="libsrootshell">This app use RootShell by Stericson</string>
+    <string name="nopw">No Password</string>
+</resources>

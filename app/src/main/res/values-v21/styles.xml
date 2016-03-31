@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:colorPrimary">#039BE5</item>
+        <item name="android:colorPrimaryDark">#0277BD</item>
+        <item name="android:navigationBarColor">#0277BD</item>
+        <item name="android:textColorPrimary">#FFFFFF</item>
+        <item name="android:textColor">#FFFFFF</item>
+
+    </style>
+
+    <style name="ToolbarColor" parent="AppTheme">
+        <item name="android:textColorSecondary">#FFFFFF</item>
+    </style>
+
+
+</resources>

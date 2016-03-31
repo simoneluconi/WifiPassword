@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bluematerial">#2196F3</color>
+    <color name="greenmaterial">#43A047</color>
+    <color name="redmaterial">#F44336</color>
+    <color name="orangematerial">#FDD835</color>
+    <color name="background">#eeeeee</color>
+    <color name="colorprimary">#039BE5</color>
+    <color name="textcolor">#FFFFFF</color>
+    <color name="textcolorgrey">#737373</color>
+    <color name="textcolorbittitle">#000000</color>
+    <color name="md_black_1000">#000000</color>
+    <color name="material_blue_grey">#37474f</color>
+</resources>
