@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wifi Password</string>
+    <string name="password">Password</string>
+    <string name="wait">Per favore attendi</string>
+    <string name="getpassword">Ricerca Password</string>
+    <string name="ssid">SSID</string>
+    <string name="pwcopied">Password copiata nella clipboard</string>
+    <string name="sharewifi">Condividi i dati wifi con: </string>
+    <string name="nowififoundtitle">Impossibile trovare le wifi salvate</string>
+    <string name="nowififounddes">Scusa, non riesco a trovare le tue password wifi salvate. Se puoi con un root explorer cerca dentro alla cartella \"data\"
+        (solitamente \"data/misc/wifi\" o \"data/wifi\" ) e cerca un file chiamato \"wpa_supplicant.conf\" o qualcosa si simile, e inviaci per email la sua posizione. Grazie :) </string>
+    <string name="notrootmsg">Tu NON hai l\'accesso root, quest\'app non funzionerà! Per favore non valutarla male sul play store! Se non sai cos\'è l\'accesso root puoi anche disinstallare quest\'app, perchè non ha utilità per te.</string>
+    <string name="oknorootmsg">Ok, ho capito</string>
+    <string name="uninstall">Disinstalla</string>
+    <string name="noroottx">No Root!</string>
+    <string name="rootaccden">Accesso root negato!</string>
+    <string name="rootperm">Per favore, concedi i permessi di root all\'app.</string>
+    <string name="libsrootshell">Questa app usa RootShell di Stericson</string>
+    <string name="nopw">Nessuna Password</string>
+</resources>
